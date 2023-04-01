@@ -204,25 +204,19 @@ export const services = [
     icon: <FiLayout />,
     name: 'Web Design',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio perferendis volm quibusdam ullam qui dolore.',
+      'I work on the appearance (colors, font, and images), layout (how information is structured and categorized), and, in some cases, content of a website, making it easy to use, aesthetically pleasing, with a responsive and adaptive design.',
   },
   {
     icon: <FiSettings />,
     name: 'Web Development',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio perferendis volm quibusdam ullam qui dolore.',
-  },
-  {
-    icon: <FiPenTool />,
-    name: 'Branding',
-    description:
-      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio perferendis volm quibusdam ullam qui dolore.',
+      'I write the code that makes a website function, whether they work on the front end or back end (server-side). Creating or implementing designs demanded by a client or created by a design team. Expert-level knowledge of HTML, CSS and JavaScript but also extending to frameworks, and libraries',
   },
   {
     icon: <FiTag />,
     name: 'SEO',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio perferendis volm quibusdam ullam qui dolore.',
+      'Improving a website to increase its visibility when people search for products or services. The more visibility a website has on search engines, the more likely it is that brand captures business.',
   },
 ];
 
@@ -233,21 +227,21 @@ export const testimonials = [
     authorText:
       'Love the simplicity of the service and the prompt customer support. We can’t imagine working without it.',
     authorName: 'Olivia Doe',
-    authorPosition: 'Head of Design, Google',
+    authorPosition: 'Head of Design, SasoBet',
   },
   {
     authorImg: TestiImage2,
     authorText:
       'Love the simplicity of the service and the prompt customer support. We can’t imagine working without it.',
     authorName: 'Olivia Doe',
-    authorPosition: 'Head of Design, Google',
+    authorPosition: 'Head of Department, Marbles L.T.D.',
   },
   {
     authorImg: TestiImage3,
     authorText:
       'Love the simplicity of the service and the prompt customer support. We can’t imagine working without it.',
     authorName: 'Olivia Doe',
-    authorPosition: 'Head of Design, Google',
+    authorPosition: 'IT supervisor, Kainaminoteka',
   },
 ];
 
@@ -257,12 +251,12 @@ export const contact = [
     icon: <FiMail />,
     title: 'Have a question?',
     subtitle: 'I am here to help you.',
-    description: 'Email me at hello@youremail.com',
+    description: 'Email me at pl5782100@gmail.com',
   },
   {
     icon: <FiMapPin />,
     title: 'Current Location',
-    subtitle: 'Bucharest, Romania',
+    subtitle: 'Buenos Aires, Argentina',
     description: 'Serving clients worldwide',
   },
 ];
