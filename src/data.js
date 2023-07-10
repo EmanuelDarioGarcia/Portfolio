@@ -20,7 +20,7 @@ import BehanceBrandIcon from './assets/img/brands/behance.png';
 import DribbbleBrandIcon from './assets/img/brands/dribbble.png';
 
 // projects images
-import Project1 from './assets/img/projects/p1.webp';
+import Project1 from './assets/img/projects/bgImg.jpg';
 import Project2 from './assets/img/projects/p2.webp';
 import Project3 from './assets/img/projects/p3.webp';
 import Project4 from './assets/img/projects/p4.webp';
@@ -119,8 +119,9 @@ export const projectsData = [
   {
     id: '1',
     image: Project1,
-    name: 'project name 1',
-    category: 'UI/UX design',
+    url: 'https://catering-emanueldariogarcia.vercel.app/',
+    name: 'Catering La Turquesa',
+    category: 'UI/UX design / Web development',
   },
   {
     id: '2',
